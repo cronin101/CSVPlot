@@ -7,4 +7,5 @@ Turns a Matrix into a Area plot, for inclusion in some sort of Master's Thesis o
 
 ##Usage
 `$ pip install -r requirements.txt`
+
 `$ python plot_csv.py $FILENAME.CSV`
